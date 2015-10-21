@@ -1,11 +1,12 @@
 {
-  "name": "cordova-plugin-ycproblemsetplugin”,
+  "name": "cordova-plugin-ycproblemplugin”,
   "version": "1.0.1",
-  "description": "Cordova Device Plugin",
+  "description": "Cordova Problem Plugin",
   "cordova": {
     "id": "cordova-plugin-ycproblemsetplugin",
     "platforms": [
-     "android"    
+     "android”,
+     “ios”	    
     ]
   },
   "repository": {
